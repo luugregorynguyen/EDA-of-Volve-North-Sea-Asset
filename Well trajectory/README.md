@@ -67,3 +67,4 @@ the error.
 
 *This document accompanies `Volve_Well_Trajectory.ipynb`, which implements the steps above using
 real EOWR data from the public Volve field dataset.*
+The open-source data set can be found at [Equinor Volve field dataset](https://www.equinor.com/energy/volve-data-sharing)
